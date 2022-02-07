@@ -1,0 +1,16 @@
+.input-login {
+  font-family: "yekanBold";
+  outline: none;
+  width: 100%;
+  padding: 0.25rem 0;
+}
+
+.input-login::placeholder {
+  font-family: "yekanBold";
+  font-size: 0.85rem;
+}
+
+.input-login:focus {
+  border-bottom: 2px solid #0096f5;
+  transition: all 0.5s ease-in;
+}

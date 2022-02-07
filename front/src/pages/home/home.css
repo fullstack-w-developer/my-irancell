@@ -1,0 +1,23 @@
+.container_home {
+  display: grid;
+  grid-template-columns: 15% 45% 32%;
+  grid-gap: 2rem;
+  height: 100vh;
+  background-color: #eee;
+}
+
+.container_home > div:nth-child(2){
+    overflow-y: scroll;
+}
+
+
+.container_home > div::-webkit-scrollbar {
+  width: 9px;
+}
+.container_home > div::-webkit-scrollbar-thumb {
+  background: rgb(180, 180, 180);
+  border-radius: 0.35rem;
+}
+.container_home > div::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}

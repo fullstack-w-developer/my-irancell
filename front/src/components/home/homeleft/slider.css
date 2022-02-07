@@ -1,0 +1,14 @@
+.slick-list {
+  position: relative;
+}
+
+.slick-dots {
+  position: absolute;
+  bottom: 2px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.slick-dots li.slick-active button:before {
+  color: #0096f5 !important;
+}

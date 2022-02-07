@@ -1,0 +1,36 @@
+.login {
+  display: grid;
+  justify-content: center;
+  height: 100vh;
+}
+.login > div {
+  overflow-y: hidden;
+  height: 100%;
+  width: 600px;
+}
+.login > div > div {
+  overflow-y: scroll;
+  height: 100%;
+}
+
+.login > div > div::-webkit-scrollbar {
+  width: 9px;
+}
+.login > div > div::-webkit-scrollbar-thumb {
+  background: rgb(180, 180, 180);
+  border-radius: 0.35rem;
+}
+.login > div > div::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+@media all and (max-width: 768px) {
+  .login {
+    grid-template-columns: 100%;
+  }
+  .login > div {
+    width: 100%;
+  }
+  .login > div > div::-webkit-scrollbar {
+    width: 0;
+  }
+}

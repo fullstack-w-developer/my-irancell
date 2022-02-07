@@ -1,0 +1,21 @@
+.active_link {
+  display: flex;
+  align-items: center;
+}
+.menu_item > .menu_icon,
+.active_link > .menu_icon {
+  margin-right: 0.5rem !important;
+}
+
+.menu_item:hover > .menu_icon,
+.menu_item:hover > p {
+  color: #0096f5 !important;
+}
+.active_link > .menu_icon,
+.active_link > p {
+  color: rgb(241, 241, 50) !important;
+}
+
+.logout > p{
+    padding-right: 0.95rem;
+}

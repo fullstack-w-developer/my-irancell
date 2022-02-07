@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: yekanBold;
+  src: url("./assests//font/IRANYekanBold.ttf");
+}
+@font-face {
+  font-family: yekanmidum;
+  src: url("./assests//font/IRANYekanMedium.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  direction: rtl;
+  overflow-x: hidden;
+}
+.ltr {
+  direction: ltr;
+}
+
+.yekanBold {
+  font-family: yekanBold;
+}
+.yekanmidum {
+  font-family: yekanmidum;
+}
+
+.text-align-last-center {
+  text-align-last: center;
+}

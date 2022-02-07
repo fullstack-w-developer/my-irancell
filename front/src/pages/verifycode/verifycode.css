@@ -1,0 +1,28 @@
+.verifycode {
+  height: 100vh;
+  background-image: url("./../../assests/image//bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: grid;
+  justify-content: center;
+  place-items: center;
+}
+
+.verifycode > div {
+  height: 75vh;
+  width: 450px;
+  box-shadow: 1px 1px 10px 1px rgb(0, 0, 0, 0.3);
+}
+
+@media all and (max-width: 768px) {
+  .verifycode {
+    grid-template-columns: 100%;
+  }
+  .verifycode > div {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+  }
+}
