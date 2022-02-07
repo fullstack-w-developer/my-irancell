@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-irancell/static/css/main.379bc3ee.css",
+    "main.js": "/my-irancell/static/js/main.a56ebc33.js",
+    "static/media/6.jpg": "/my-irancell/static/media/6.6b43beb2a91457939b44.jpg",
+    "static/media/4.jpg": "/my-irancell/static/media/4.904189a032898e5f9d44.jpg",
+    "static/media/7.jpg": "/my-irancell/static/media/7.a6c101a08f5f51cacbad.jpg",
+    "static/media/5.jpg": "/my-irancell/static/media/5.f6ed2654122f758be9df.jpg",
+    "static/media/game-banner.png": "/my-irancell/static/media/game-banner.fce7c860d728dcfc5ae7.png",
+    "static/media/3.jpg": "/my-irancell/static/media/3.f451a5cd16b4606b2c51.jpg",
+    "static/media/IRANYekanBold.ttf": "/my-irancell/static/media/IRANYekanBold.7e590bd6c2c059d1eb66.ttf",
+    "static/media/IRANYekanMedium.ttf": "/my-irancell/static/media/IRANYekanMedium.48838b15fe97aed66635.ttf",
+    "static/media/bg.png": "/my-irancell/static/media/bg.198ebe76d0135613a1e7.png",
+    "static/media/pishvazlast.png": "/my-irancell/static/media/pishvazlast.c2955ee9eb289e7e7dc8.png",
+    "static/media/flightiologo.png": "/my-irancell/static/media/flightiologo.1d2b38314516470039a9.png",
+    "static/media/moofidlogo.png": "/my-irancell/static/media/moofidlogo.998c018ac25b5a20f04d.png",
+    "static/media/torobla.png": "/my-irancell/static/media/torobla.5630b9ea1759aa962343.png",
+    "static/media/logo-main.2c66576.svg": "/my-irancell/static/media/logo-main.2c66576.5b6c3293ab07b212de564a064bcd6d54.svg",
+    "static/media/logo-md-fa.png": "/my-irancell/static/media/logo-md-fa.eafaf94f89b9d50bee1b.png",
+    "static/media/logo-main.svg": "/my-irancell/static/media/logo-main.be315c0f08815c97aeee90120a7c2bea.svg",
+    "static/media/login-bg.svg": "/my-irancell/static/media/login-bg.62def3ae9477184d008f2d590e596fbd.svg",
+    "static/media/slick.svg": "/my-irancell/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/my-irancell/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/my-irancell/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cy.svg": "/my-irancell/static/media/cy.14e57ce17586f25a31d6a446c45f6491.svg",
+    "static/media/slick.woff": "/my-irancell/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/more.svg": "/my-irancell/static/media/more.e844e3230133753e5b9aa35e22cc3e63.svg",
+    "index.html": "/my-irancell/index.html",
+    "main.379bc3ee.css.map": "/my-irancell/static/css/main.379bc3ee.css.map",
+    "main.a56ebc33.js.map": "/my-irancell/static/js/main.a56ebc33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.379bc3ee.css",
+    "static/js/main.a56ebc33.js"
+  ]
+}
